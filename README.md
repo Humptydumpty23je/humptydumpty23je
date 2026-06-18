@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Humptydumpty23je 👋
 
-<!--
-**Humptydumpty23je/humptydumpty23je** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Automation and Mechatronics Engineer focused on designing reliable, structured industrial control systems. My core expertise lies in bridging physical hardware logic with graphical SCADA/HMI interfaces and sequential control design.
 
-Here are some ideas to get you started:
+I am actively expanding my technical stack toward advanced software engineering, embedded systems, and intelligent automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack & Tools
+
+#### **Industrial Automation & SCADA**
+- **PLC Programming:** Ladder Logic, Function Block Diagram (FBD), Sequential Flow
+- **Software Platforms:** Siemens TIA Portal V15, AVEVA/Wonderware InTouch HMI
+- **System Design:** Interlocking safety logic, batch process automation, tag name dictionaries
+
+#### **Advanced Computing & Embedded Systems (Current Focus)**
+- **Languages:** C++, Python
+- **Core Targets:** Computer Vision (CV) integration, embedded applications, intelligent robotic sorting
+- **Hardware Prototyping:** Arduino, Raspberry Pi ecosystem, sensor data acquisition
+
+---
+
+### 🔭 Projects & Portfolio Focus
+
+- **[Batch Process Control System](./)**: Implementing event-driven and time-driven ladder logic for industrial mixing, heating, and tracking operations.
+- **[HMI & SCADA Interface Design](./)**: Creating high-visibility, operator-focused graphical interfaces in Wonderware InTouch with comprehensive alarm handling.
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** [Your LinkedIn Link Here]
+- **Email:** [Your Professional Email Here]
