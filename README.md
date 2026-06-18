@@ -28,5 +28,5 @@ I am actively expanding my technical stack toward advanced software engineering,
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [Your LinkedIn Link Here]
-- **Email:** [Your Professional Email Here]
+- **LinkedIn:** []
+- **Email:** [iboyiaghogho387@gmail.com]
