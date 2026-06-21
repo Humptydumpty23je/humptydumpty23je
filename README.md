@@ -1,4 +1,4 @@
-# Hi, I'm Humptydumpty23je 👋
+⁶# Hi, I'm Humptydumpty23je 👋
 
 I am an Automation and Mechatronics Engineer focused on designing reliable, structured industrial control systems. My core expertise lies in bridging physical hardware logic with graphical SCADA/HMI interfaces and sequential control design.
 
@@ -28,5 +28,5 @@ I am actively expanding my technical stack toward advanced software engineering,
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** []
+- **LinkedIn:** [https://www.linkedin.com/in/iboyi-aghogho-b25024365?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - **Email:** [iboyiaghogho387@gmail.com]
